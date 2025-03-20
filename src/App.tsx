@@ -50,7 +50,7 @@ function App() {
         <div className="relative h-[600px]">
           <div className="absolute inset-0">
             <img
-              src="https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&q=80"
+              src=""
               alt="Hambúrguer"
               className="w-full h-full object-cover"
             />
